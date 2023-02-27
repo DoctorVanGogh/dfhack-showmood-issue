@@ -1,0 +1,16 @@
+[ID:Combat_Log]
+[NUMERIC_VERSION:1]
+[DISPLAYED_VERSION:1.0]
+[EARLIEST_COMPATIBLE_NUMERIC_VERSION:1]
+[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:1.0]
+[AUTHOR:PrivateRiem]
+[NAME:Combat Log with Combat sound]
+[DESCRIPTION:Adds a live combat log, with combat sound.]
+
+[STEAM_TITLE:Live Combat Log]
+[STEAM_DESCRIPTION:Adds a real time Combat log to the game]
+[STEAM_TAG:mod]
+[STEAM_TAG:qol]
+[STEAM_TAG:ui]
+
+[STEAM_FILE_ID:2905960813]
